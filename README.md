@@ -2,7 +2,7 @@ Hi!
 
 ## I'm
 - Yongjin Jung
-- Data Engineer & MLOps
+- Data Engineer
 - Senior Software Engineer working at Samsung Electronics
 
 ## Love to use
@@ -11,5 +11,5 @@ Hi!
 
 ## Currently Learning
 - Reinforcement Learning
-- Machine Learning & MLOps
+- Machine Learning Engineering for Production (MLOps)
 - 3D Interactive Data Visualization
