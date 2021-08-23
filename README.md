@@ -6,10 +6,10 @@ Hi!
 - Senior Software Engineer working at Samsung Electronics
 
 ## Love to use
-- Python, Rust, Haskell, Scala, TypeScript
+- Python, Rust, Haskell, TypeScript
 - Functional Programming
 
 ## Currently Learning
 - Reinforcement Learning
 - Machine Learning Engineering for Production (MLOps)
-- 3D Interactive Data Visualization
+- Interactive Data Visualization
