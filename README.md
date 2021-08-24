@@ -3,7 +3,7 @@ Hi!
 ## I'm
 - Yongjin Jung
 - Data Engineer
-- Senior Software Engineer working at Samsung Electronics
+- Software Engineer working at Samsung Electronics
 
 ## Love to use
 - Python, Rust, Haskell, TypeScript
