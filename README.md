@@ -3,7 +3,7 @@ Hi!
 ## I'm
 - Yongjin Jung
 - Software Engineer
-- Focus on (Data|Backend) Engineering
+- Focus on (Data | Backend) Engineering
 
 ## Love to use
 - Python, Rust, Haskell, TypeScript
