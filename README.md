@@ -12,5 +12,5 @@ Hi!
 ## Currently Learning
 - Reinforcement Learning
 - Machine Learning Engineering for Production (MLOps)
-- Interactive Data Visualization
+- Real-Time VFX
 - Procedural Generation
